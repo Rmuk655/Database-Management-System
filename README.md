@@ -48,7 +48,6 @@ Write SQL queries for the following using the Chinook database:
 
 ## Notes
 
-- Queries are **correct and well-structured**.
 - Uses appropriate **joins, subqueries, grouping, and aggregation**.
 
 ---
