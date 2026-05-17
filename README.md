@@ -1,6 +1,7 @@
-# Database Management System – Chinook Database
+# DBMS — Chinook Database Analysis
 
-This repository contains the **DBMS-1 assignment** based on the **Chinook database**, to be completed according to the instructions provided by the course.
+SQL queries for business analytics on the Chinook music store 
+database using PostgreSQL.
 
 ---
 
@@ -49,7 +50,5 @@ Write SQL queries for the following using the Chinook database:
 
 - Queries are **correct and well-structured**.
 - Uses appropriate **joins, subqueries, grouping, and aggregation**.
-- Test queries on PostgreSQL before final submission.
-- Clearly labeled outputs are present in the PDF report.
 
 ---
