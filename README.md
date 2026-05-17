@@ -1,17 +1,17 @@
-# DBMS Assignment – Chinook Database
+# Database Management System – Chinook Database
 
 This repository contains the **DBMS-1 assignment** based on the **Chinook database**, to be completed according to the instructions provided by the course.
 
 ---
 
-## 🗄️ Database Used
+## Database Used
 
 - **Database**: Chinook
 - **DBMS**: PostgreSQL
 
 ---
 
-## 🧪 Exercises
+## Exercises
 
 Write SQL queries for the following using the Chinook database:
 
@@ -45,7 +45,7 @@ Write SQL queries for the following using the Chinook database:
 
 ---
 
-## 📝 Notes
+## Notes
 
 - Queries are **correct and well-structured**.
 - Uses appropriate **joins, subqueries, grouping, and aggregation**.
